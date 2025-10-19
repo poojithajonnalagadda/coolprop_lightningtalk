@@ -1,2 +1,4 @@
 coolprop
 ipykernel
+matplotlib
+numpy
