@@ -6,4 +6,4 @@ Installation
 
 Make sure you have Python installed. Then, install the required packages:
 
-pip install CoolProp matplotlib numpy
+pip install CoolProp 
