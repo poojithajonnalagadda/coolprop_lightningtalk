@@ -4,6 +4,6 @@ This repository contains Python examples demonstrating the use of CoolProp, a li
 
 Installation
 
-Make sure you have Python installed. Then, install the required packages:
+Make sure you have Python installed. Then, install coolprop and the required packages:
 
 pip install CoolProp 
