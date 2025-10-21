@@ -19,9 +19,11 @@ print(f"Density: {rho:.2f} kg/m³")
 
 #Example 3
 from CoolProp.Plots import PropertyPlot
-plot = PropertyPlot('Water', 'Ts', unit_system='SI')
+plot = PropertyPlot('Air', 'Ts', unit_system='SI')
 plot.calc_isolines()
 plot.show()
+
+
 
 
 
